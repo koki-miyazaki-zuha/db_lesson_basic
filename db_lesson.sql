@@ -104,3 +104,4 @@ LEFT OUTER JOIN reports r
 USING (person_id)
 WHERE r.report_id IS NULL;
 
+-- test
